@@ -83,23 +83,29 @@ Tested using 722 unseen vehicle images.
 ## Full working
 
 1. Detection:
+
    ![alt text](public/image-1.png)
 
 2. Cropping using detected bounding box:
+
    ![alt text](public/image-6.png)
 
 3. Preprocessing steps for EfficientNet:
+
    ![alt text](public/image-2.png)
 
-4. Contour detection and classification
+4. Contour detection and classification:
+
    ![alt text](public/image-3.png)
 
 5. Preprocessing and Recongition for EasyOCR
+
    ![alt text](public/image-5.png)
 
 6. Ensemble voting between EfficientNetB0 and EasyOCR
 
-7. Final Text Extraction
+7. Final Text Extraction:
+
    ![alt text](public/image-4.png)
 
 ## 📂 Dataset
